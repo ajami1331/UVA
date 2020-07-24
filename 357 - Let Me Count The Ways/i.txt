@@ -1,0 +1,11 @@
+There are 6 ways to produce 15 cents change.
+There are 50 ways to produce 54 cents change.
+There are 6 ways to produce 15 cents change.
+There are 50 ways to produce 54 cents change.
+There are 62 ways to produce 55 cents change.
+There are 31 ways to produce 44 cents change.
+There are 481878 ways to produce 877 cents change.
+There are 62 ways to produce 55 cents change.
+There are 62 ways to produce 55 cents change.
+There are 3516956430 ways to produce 8478 cents change.
+There are 187 ways to produce 87 cents change.
